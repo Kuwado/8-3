@@ -1,7 +1,7 @@
 
 var to = 'Bạn tớ!';
 var gift_url = '';
-var gift_image_url = 'pic/trg.jpg';
+var gift_image_url = 'Pic/trg.jpg';
 
 
 
